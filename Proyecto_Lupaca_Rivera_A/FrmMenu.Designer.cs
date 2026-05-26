@@ -30,10 +30,10 @@
         {
             this.panelMenu = new System.Windows.Forms.Panel();
             this.btnSalir = new System.Windows.Forms.Button();
+            this.btnCursos = new System.Windows.Forms.Button();
             this.btnEstadisticas = new System.Windows.Forms.Button();
             this.btnConsultas = new System.Windows.Forms.Button();
             this.btnConvalidacion = new System.Windows.Forms.Button();
-            this.btnCursos = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.panelContenedor = new System.Windows.Forms.Panel();
             this.label2 = new System.Windows.Forms.Label();
@@ -53,7 +53,7 @@
             this.panelMenu.Dock = System.Windows.Forms.DockStyle.Left;
             this.panelMenu.Location = new System.Drawing.Point(0, 0);
             this.panelMenu.Name = "panelMenu";
-            this.panelMenu.Size = new System.Drawing.Size(116, 450);
+            this.panelMenu.Size = new System.Drawing.Size(116, 521);
             this.panelMenu.TabIndex = 0;
             // 
             // btnSalir
@@ -65,6 +65,16 @@
             this.btnSalir.Text = "Salir";
             this.btnSalir.UseVisualStyleBackColor = true;
             this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
+            // 
+            // btnCursos
+            // 
+            this.btnCursos.Location = new System.Drawing.Point(12, 138);
+            this.btnCursos.Name = "btnCursos";
+            this.btnCursos.Size = new System.Drawing.Size(99, 23);
+            this.btnCursos.TabIndex = 2;
+            this.btnCursos.Text = "Cursos";
+            this.btnCursos.UseVisualStyleBackColor = true;
+            this.btnCursos.Click += new System.EventHandler(this.btnCursos_Click);
             // 
             // btnEstadisticas
             // 
@@ -96,16 +106,6 @@
             this.btnConvalidacion.UseVisualStyleBackColor = true;
             this.btnConvalidacion.Click += new System.EventHandler(this.btnConvalidacion_Click);
             // 
-            // btnCursos
-            // 
-            this.btnCursos.Location = new System.Drawing.Point(12, 138);
-            this.btnCursos.Name = "btnCursos";
-            this.btnCursos.Size = new System.Drawing.Size(99, 23);
-            this.btnCursos.TabIndex = 2;
-            this.btnCursos.Text = "Cursos";
-            this.btnCursos.UseVisualStyleBackColor = true;
-            this.btnCursos.Click += new System.EventHandler(this.btnCursos_Click);
-            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -122,7 +122,7 @@
             this.panelContenedor.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelContenedor.Location = new System.Drawing.Point(116, 0);
             this.panelContenedor.Name = "panelContenedor";
-            this.panelContenedor.Size = new System.Drawing.Size(684, 450);
+            this.panelContenedor.Size = new System.Drawing.Size(705, 521);
             this.panelContenedor.TabIndex = 0;
             // 
             // label2
@@ -138,7 +138,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(821, 521);
             this.Controls.Add(this.panelContenedor);
             this.Controls.Add(this.panelMenu);
             this.Name = "FrmMenu";

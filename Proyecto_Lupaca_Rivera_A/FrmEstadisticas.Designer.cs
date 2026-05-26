@@ -52,7 +52,7 @@
             this.chart1.ChartAreas.Add(chartArea1);
             legend1.Name = "Legend1";
             this.chart1.Legends.Add(legend1);
-            this.chart1.Location = new System.Drawing.Point(27, 81);
+            this.chart1.Location = new System.Drawing.Point(2, 12);
             this.chart1.Name = "chart1";
             series1.ChartArea = "ChartArea1";
             series1.Legend = "Legend1";
@@ -68,7 +68,7 @@
             this.chart2.ChartAreas.Add(chartArea2);
             legend2.Name = "Legend1";
             this.chart2.Legends.Add(legend2);
-            this.chart2.Location = new System.Drawing.Point(198, 81);
+            this.chart2.Location = new System.Drawing.Point(173, 12);
             this.chart2.Name = "chart2";
             series2.ChartArea = "ChartArea1";
             series2.Legend = "Legend1";
@@ -84,7 +84,7 @@
             this.chart3.ChartAreas.Add(chartArea3);
             legend3.Name = "Legend1";
             this.chart3.Legends.Add(legend3);
-            this.chart3.Location = new System.Drawing.Point(411, 81);
+            this.chart3.Location = new System.Drawing.Point(386, 12);
             this.chart3.Name = "chart3";
             series3.ChartArea = "ChartArea1";
             series3.Legend = "Legend1";
@@ -104,6 +104,7 @@
             this.Controls.Add(this.chart1);
             this.Name = "FrmEstadisticas";
             this.Text = "FrmEstadisticas";
+            this.Load += new System.EventHandler(this.FrmEstadisticas_Load);
             ((System.ComponentModel.ISupportInitialize)(this.chart1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.chart2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.chart3)).EndInit();

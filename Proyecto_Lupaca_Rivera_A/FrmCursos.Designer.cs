@@ -39,16 +39,16 @@
             this.btnLimpiar = new System.Windows.Forms.Button();
             this.txtCodigo = new System.Windows.Forms.TextBox();
             this.txtNombre = new System.Windows.Forms.TextBox();
-            this.numCreditos = new System.Windows.Forms.NumericUpDown();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            ((System.ComponentModel.ISupportInitialize)(this.numCreditos)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.nudCreditos = new System.Windows.Forms.NumericUpDown();
+            this.dgvCursos = new System.Windows.Forms.DataGridView();
+            ((System.ComponentModel.ISupportInitialize)(this.nudCreditos)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvCursos)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(91, 39);
+            this.label1.Location = new System.Drawing.Point(80, 13);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(65, 13);
             this.label1.TabIndex = 0;
@@ -57,7 +57,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(328, 39);
+            this.label2.Location = new System.Drawing.Point(317, 13);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(69, 13);
             this.label2.TabIndex = 1;
@@ -66,7 +66,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(19, 84);
+            this.label3.Location = new System.Drawing.Point(8, 58);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(40, 13);
             this.label3.TabIndex = 2;
@@ -75,7 +75,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(19, 119);
+            this.label4.Location = new System.Drawing.Point(8, 93);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(44, 13);
             this.label4.TabIndex = 3;
@@ -84,7 +84,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(19, 159);
+            this.label5.Location = new System.Drawing.Point(8, 133);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(45, 13);
             this.label5.TabIndex = 4;
@@ -92,7 +92,7 @@
             // 
             // btnAgregar
             // 
-            this.btnAgregar.Location = new System.Drawing.Point(22, 207);
+            this.btnAgregar.Location = new System.Drawing.Point(11, 181);
             this.btnAgregar.Name = "btnAgregar";
             this.btnAgregar.Size = new System.Drawing.Size(75, 23);
             this.btnAgregar.TabIndex = 5;
@@ -102,7 +102,7 @@
             // 
             // btnModificar
             // 
-            this.btnModificar.Location = new System.Drawing.Point(22, 262);
+            this.btnModificar.Location = new System.Drawing.Point(11, 236);
             this.btnModificar.Name = "btnModificar";
             this.btnModificar.Size = new System.Drawing.Size(75, 23);
             this.btnModificar.TabIndex = 6;
@@ -111,7 +111,7 @@
             // 
             // btnEliminar
             // 
-            this.btnEliminar.Location = new System.Drawing.Point(22, 324);
+            this.btnEliminar.Location = new System.Drawing.Point(11, 298);
             this.btnEliminar.Name = "btnEliminar";
             this.btnEliminar.Size = new System.Drawing.Size(75, 23);
             this.btnEliminar.TabIndex = 7;
@@ -120,52 +120,53 @@
             // 
             // btnLimpiar
             // 
-            this.btnLimpiar.Location = new System.Drawing.Point(22, 368);
+            this.btnLimpiar.Location = new System.Drawing.Point(11, 342);
             this.btnLimpiar.Name = "btnLimpiar";
             this.btnLimpiar.Size = new System.Drawing.Size(75, 23);
             this.btnLimpiar.TabIndex = 8;
             this.btnLimpiar.Text = "Limpiar";
             this.btnLimpiar.UseVisualStyleBackColor = true;
+            this.btnLimpiar.Click += new System.EventHandler(this.btnLimpiar_Click);
             // 
             // txtCodigo
             // 
-            this.txtCodigo.Location = new System.Drawing.Point(94, 77);
+            this.txtCodigo.Location = new System.Drawing.Point(83, 51);
             this.txtCodigo.Name = "txtCodigo";
             this.txtCodigo.Size = new System.Drawing.Size(100, 20);
             this.txtCodigo.TabIndex = 9;
             // 
             // txtNombre
             // 
-            this.txtNombre.Location = new System.Drawing.Point(94, 116);
+            this.txtNombre.Location = new System.Drawing.Point(83, 90);
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(100, 20);
             this.txtNombre.TabIndex = 10;
             // 
-            // numCreditos
+            // nudCreditos
             // 
-            this.numCreditos.Location = new System.Drawing.Point(94, 152);
-            this.numCreditos.Name = "numCreditos";
-            this.numCreditos.Size = new System.Drawing.Size(120, 20);
-            this.numCreditos.TabIndex = 11;
+            this.nudCreditos.Location = new System.Drawing.Point(83, 126);
+            this.nudCreditos.Name = "nudCreditos";
+            this.nudCreditos.Size = new System.Drawing.Size(120, 20);
+            this.nudCreditos.TabIndex = 11;
             // 
-            // dataGridView1
+            // dgvCursos
             // 
-            this.dataGridView1.AllowUserToAddRows = false;
-            this.dataGridView1.AllowUserToDeleteRows = false;
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(220, 77);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.ReadOnly = true;
-            this.dataGridView1.Size = new System.Drawing.Size(240, 303);
-            this.dataGridView1.TabIndex = 12;
+            this.dgvCursos.AllowUserToAddRows = false;
+            this.dgvCursos.AllowUserToDeleteRows = false;
+            this.dgvCursos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvCursos.Location = new System.Drawing.Point(209, 51);
+            this.dgvCursos.Name = "dgvCursos";
+            this.dgvCursos.ReadOnly = true;
+            this.dgvCursos.Size = new System.Drawing.Size(240, 303);
+            this.dgvCursos.TabIndex = 12;
             // 
             // FrmCursos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.dataGridView1);
-            this.Controls.Add(this.numCreditos);
+            this.Controls.Add(this.dgvCursos);
+            this.Controls.Add(this.nudCreditos);
             this.Controls.Add(this.txtNombre);
             this.Controls.Add(this.txtCodigo);
             this.Controls.Add(this.btnLimpiar);
@@ -179,8 +180,9 @@
             this.Controls.Add(this.label1);
             this.Name = "FrmCursos";
             this.Text = "FrmCursos";
-            ((System.ComponentModel.ISupportInitialize)(this.numCreditos)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            this.Load += new System.EventHandler(this.FrmCursos_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.nudCreditos)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvCursos)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -199,7 +201,7 @@
         private System.Windows.Forms.Button btnLimpiar;
         private System.Windows.Forms.TextBox txtCodigo;
         private System.Windows.Forms.TextBox txtNombre;
-        private System.Windows.Forms.NumericUpDown numCreditos;
-        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.NumericUpDown nudCreditos;
+        private System.Windows.Forms.DataGridView dgvCursos;
     }
 }
