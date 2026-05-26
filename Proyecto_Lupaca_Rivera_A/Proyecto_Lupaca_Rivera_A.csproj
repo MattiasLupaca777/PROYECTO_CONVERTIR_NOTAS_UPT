@@ -47,6 +47,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Clases\Convalidacion.cs" />
+    <Compile Include="Clases\ConversorNotas.cs" />
+    <Compile Include="Clases\Curso.cs" />
+    <Compile Include="Clases\Equivalencia.cs" />
+    <Compile Include="Clases\Gestortxt.cs" />
+    <Compile Include="Clases\Estudiante.cs" />
+    <Compile Include="Clases\Movilidad.cs" />
     <Compile Include="FrmConsultas.cs">
       <SubType>Form</SubType>
     </Compile>
