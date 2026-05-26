@@ -1,0 +1,15 @@
+C:\Users\matti\OneDrive\Escritorio\INGENIERIA DE SISTEMAS\5TO CICLO\Programacion 2 mattias\proeycto tablas\Proyecto_Lupaca_Rivera_A\Proyecto_Lupaca_Rivera_A\bin\Debug\Proyecto_Lupaca_Rivera_A.exe.config
+C:\Users\matti\OneDrive\Escritorio\INGENIERIA DE SISTEMAS\5TO CICLO\Programacion 2 mattias\proeycto tablas\Proyecto_Lupaca_Rivera_A\Proyecto_Lupaca_Rivera_A\bin\Debug\Proyecto_Lupaca_Rivera_A.exe
+C:\Users\matti\OneDrive\Escritorio\INGENIERIA DE SISTEMAS\5TO CICLO\Programacion 2 mattias\proeycto tablas\Proyecto_Lupaca_Rivera_A\Proyecto_Lupaca_Rivera_A\bin\Debug\Proyecto_Lupaca_Rivera_A.pdb
+C:\Users\matti\OneDrive\Escritorio\INGENIERIA DE SISTEMAS\5TO CICLO\Programacion 2 mattias\proeycto tablas\Proyecto_Lupaca_Rivera_A\Proyecto_Lupaca_Rivera_A\obj\Debug\Proyecto_Lupaca_Rivera_A.csproj.AssemblyReference.cache
+C:\Users\matti\OneDrive\Escritorio\INGENIERIA DE SISTEMAS\5TO CICLO\Programacion 2 mattias\proeycto tablas\Proyecto_Lupaca_Rivera_A\Proyecto_Lupaca_Rivera_A\obj\Debug\Proyecto_Lupaca_Rivera_A.FrmMenu.resources
+C:\Users\matti\OneDrive\Escritorio\INGENIERIA DE SISTEMAS\5TO CICLO\Programacion 2 mattias\proeycto tablas\Proyecto_Lupaca_Rivera_A\Proyecto_Lupaca_Rivera_A\obj\Debug\Proyecto_Lupaca_Rivera_A.Properties.Resources.resources
+C:\Users\matti\OneDrive\Escritorio\INGENIERIA DE SISTEMAS\5TO CICLO\Programacion 2 mattias\proeycto tablas\Proyecto_Lupaca_Rivera_A\Proyecto_Lupaca_Rivera_A\obj\Debug\Proyecto_Lupaca_Rivera_A.csproj.GenerateResource.cache
+C:\Users\matti\OneDrive\Escritorio\INGENIERIA DE SISTEMAS\5TO CICLO\Programacion 2 mattias\proeycto tablas\Proyecto_Lupaca_Rivera_A\Proyecto_Lupaca_Rivera_A\obj\Debug\Proyecto_Lupaca_Rivera_A.csproj.CoreCompileInputs.cache
+C:\Users\matti\OneDrive\Escritorio\INGENIERIA DE SISTEMAS\5TO CICLO\Programacion 2 mattias\proeycto tablas\Proyecto_Lupaca_Rivera_A\Proyecto_Lupaca_Rivera_A\obj\Debug\Proyecto_Lupaca_Rivera_A.exe
+C:\Users\matti\OneDrive\Escritorio\INGENIERIA DE SISTEMAS\5TO CICLO\Programacion 2 mattias\proeycto tablas\Proyecto_Lupaca_Rivera_A\Proyecto_Lupaca_Rivera_A\obj\Debug\Proyecto_Lupaca_Rivera_A.pdb
+C:\Users\matti\OneDrive\Escritorio\INGENIERIA DE SISTEMAS\5TO CICLO\Programacion 2 mattias\proeycto tablas\Proyecto_Lupaca_Rivera_A\Proyecto_Lupaca_Rivera_A\obj\Debug\Proyecto_Lupaca_Rivera_A.exe.config
+C:\Users\matti\OneDrive\Escritorio\INGENIERIA DE SISTEMAS\5TO CICLO\Programacion 2 mattias\proeycto tablas\Proyecto_Lupaca_Rivera_A\Proyecto_Lupaca_Rivera_A\obj\Debug\Proyecto_Lupaca_Rivera_A.FrmConsultas.resources
+C:\Users\matti\OneDrive\Escritorio\INGENIERIA DE SISTEMAS\5TO CICLO\Programacion 2 mattias\proeycto tablas\Proyecto_Lupaca_Rivera_A\Proyecto_Lupaca_Rivera_A\obj\Debug\Proyecto_Lupaca_Rivera_A.FrmConvalidacion.resources
+C:\Users\matti\OneDrive\Escritorio\INGENIERIA DE SISTEMAS\5TO CICLO\Programacion 2 mattias\proeycto tablas\Proyecto_Lupaca_Rivera_A\Proyecto_Lupaca_Rivera_A\obj\Debug\Proyecto_Lupaca_Rivera_A.FrmCursos.resources
+C:\Users\matti\OneDrive\Escritorio\INGENIERIA DE SISTEMAS\5TO CICLO\Programacion 2 mattias\proeycto tablas\Proyecto_Lupaca_Rivera_A\Proyecto_Lupaca_Rivera_A\obj\Debug\Proyecto_Lupaca_Rivera_A.FrmEstadisticas.resources
