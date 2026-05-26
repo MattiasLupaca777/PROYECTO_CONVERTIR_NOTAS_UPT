@@ -218,6 +218,36 @@ namespace Proyecto_Lupaca_Rivera_A
 
         private void FrmConvalidacion_Load(object sender, EventArgs e)
         {
+            cboPais.Items.Clear();
+            cboPais.Items.Add("Argentina");
+            cboPais.Items.Add("Bolivia");
+            cboPais.Items.Add("Brasil");
+            cboPais.Items.Add("Chile");
+            cboPais.Items.Add("Colombia");
+            cboPais.Items.Add("España");
+            cboPais.Items.Add("México");
+            cboPais.Items.Add("Perú");
+
+            cboUniversidad.Items.Clear();
+            cboUniversidad.Items.Add("Universidad Nacional de Córdoba");
+            cboUniversidad.Items.Add("Universidad Mayor de San Andrés");
+            cboUniversidad.Items.Add("Universidad de São Paulo");
+            cboUniversidad.Items.Add("Universidad de Chile");
+            cboUniversidad.Items.Add("Universidad Nacional de Colombia");
+            cboUniversidad.Items.Add("Universidad Complutense de Madrid");
+            cboUniversidad.Items.Add("UNAM");
+
+            cboSemestre.Items.Clear();
+            cboSemestre.Items.Add("2025-I");
+            cboSemestre.Items.Add("2025-II");
+            cboSemestre.Items.Add("2026-I");
+            cboSemestre.Items.Add("2026-II");
+            cboSemestre.Items.Add("2027-I");
+            cboSemestre.Items.Add("2027-II");
+
+            if (cboPais.Items.Count > 0) cboPais.SelectedIndex = 0;
+            if (cboUniversidad.Items.Count > 0) cboUniversidad.SelectedIndex = 0;
+            if (cboSemestre.Items.Count > 0) cboSemestre.SelectedIndex = 0;
 
         }
 

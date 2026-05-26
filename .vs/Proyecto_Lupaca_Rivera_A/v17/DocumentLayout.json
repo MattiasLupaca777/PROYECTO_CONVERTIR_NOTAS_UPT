@@ -3,7 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\proyecto_lupaca_rivera_a\\clases\\movilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\proyecto_lupaca_rivera_a\\frmconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|solutionrelative:proyecto_lupaca_rivera_a\\frmconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\proyecto_lupaca_rivera_a\\frmconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|solutionrelative:proyecto_lupaca_rivera_a\\frmconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\proyecto_lupaca_rivera_a\\frmconvalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|solutionrelative:proyecto_lupaca_rivera_a\\frmconvalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\proyecto_lupaca_rivera_a\\frmconvalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|solutionrelative:proyecto_lupaca_rivera_a\\frmconvalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\proyecto_lupaca_rivera_a\\clases\\conversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|solutionrelative:proyecto_lupaca_rivera_a\\clases\\conversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\proyecto_lupaca_rivera_a\\clases\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|solutionrelative:proyecto_lupaca_rivera_a\\clases\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\proyecto_lupaca_rivera_a\\clases\\convalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|solutionrelative:proyecto_lupaca_rivera_a\\clases\\convalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|c:\\users\\matti\\onedrive\\escritorio\\ingenieria de sistemas\\5to ciclo\\programacion 2 mattias\\proeycto tablas\\proyecto_lupaca_rivera_a\\proyecto_lupaca_rivera_a\\clases\\movilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|solutionrelative:proyecto_lupaca_rivera_a\\clases\\movilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,31 +43,11 @@
       "RelativeMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|solutionrelative:proyecto_lupaca_rivera_a\\clases\\equivalencianota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\proyecto_lupaca_rivera_a\\clases\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|solutionrelative:proyecto_lupaca_rivera_a\\clases\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\proyecto_lupaca_rivera_a\\clases\\conversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|solutionrelative:proyecto_lupaca_rivera_a\\clases\\conversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\proyecto_lupaca_rivera_a\\clases\\convalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|solutionrelative:proyecto_lupaca_rivera_a\\clases\\convalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\proyecto_lupaca_rivera_a\\clases\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|solutionrelative:proyecto_lupaca_rivera_a\\clases\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\proyecto_lupaca_rivera_a\\frmconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|solutionrelative:proyecto_lupaca_rivera_a\\frmconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\proyecto_lupaca_rivera_a\\frmconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|solutionrelative:proyecto_lupaca_rivera_a\\frmconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|c:\\users\\matti\\onedrive\\escritorio\\ingenieria de sistemas\\5to ciclo\\programacion 2 mattias\\proeycto tablas\\proyecto_lupaca_rivera_a\\proyecto_lupaca_rivera_a\\frmestadisticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\proyecto_lupaca_rivera_a\\frmestadisticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|solutionrelative:proyecto_lupaca_rivera_a\\frmestadisticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -47,16 +55,8 @@
       "RelativeMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|solutionrelative:proyecto_lupaca_rivera_a\\frmcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\proyecto_lupaca_rivera_a\\frmconvalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|solutionrelative:proyecto_lupaca_rivera_a\\frmconvalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\proyecto_lupaca_rivera_a\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|solutionrelative:proyecto_lupaca_rivera_a\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\proyecto_lupaca_rivera_a\\frmconvalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|solutionrelative:proyecto_lupaca_rivera_a\\frmconvalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F04ACBA-B971-4B66-9F36-981C03637ADD}|Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A.csproj|C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\proyecto_lupaca_rivera_a\\frmcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,54 +95,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EquivalenciaNota.cs",
-              "DocumentMoniker": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\Clases\\EquivalenciaNota.cs",
-              "RelativeDocumentMoniker": "Proyecto_Lupaca_Rivera_A\\Clases\\EquivalenciaNota.cs",
-              "ToolTip": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\Clases\\EquivalenciaNota.cs",
-              "RelativeToolTip": "Proyecto_Lupaca_Rivera_A\\Clases\\EquivalenciaNota.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Title": "FrmConvalidacion.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\FrmConvalidacion.cs",
+              "RelativeDocumentMoniker": "Proyecto_Lupaca_Rivera_A\\FrmConvalidacion.cs",
+              "ToolTip": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\FrmConvalidacion.cs",
+              "RelativeToolTip": "Proyecto_Lupaca_Rivera_A\\FrmConvalidacion.cs",
+              "ViewState": "AgIAAO0AAABAqqqqqqoqwPkAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T11:11:07.456Z",
+              "WhenOpened": "2026-05-26T12:11:33.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Estudiante.cs",
-              "DocumentMoniker": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\Clases\\Estudiante.cs",
-              "RelativeDocumentMoniker": "Proyecto_Lupaca_Rivera_A\\Clases\\Estudiante.cs",
-              "ToolTip": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\Clases\\Estudiante.cs",
-              "RelativeToolTip": "Proyecto_Lupaca_Rivera_A\\Clases\\Estudiante.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Title": "FrmConsultas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\FrmConsultas.cs",
+              "RelativeDocumentMoniker": "Proyecto_Lupaca_Rivera_A\\FrmConsultas.cs",
+              "ToolTip": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\FrmConsultas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto_Lupaca_Rivera_A\\FrmConsultas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T11:25:16.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T02:39:49.002Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Movilidad.cs",
-              "DocumentMoniker": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\Clases\\Movilidad.cs",
-              "RelativeDocumentMoniker": "Proyecto_Lupaca_Rivera_A\\Clases\\Movilidad.cs",
-              "ToolTip": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\Clases\\Movilidad.cs",
-              "RelativeToolTip": "Proyecto_Lupaca_Rivera_A\\Clases\\Movilidad.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Title": "FrmConsultas.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\FrmConsultas.cs",
+              "RelativeDocumentMoniker": "Proyecto_Lupaca_Rivera_A\\FrmConsultas.cs",
+              "ToolTip": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\FrmConsultas.cs",
+              "RelativeToolTip": "Proyecto_Lupaca_Rivera_A\\FrmConsultas.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T11:27:19.766Z",
+              "WhenOpened": "2026-05-26T12:13:57.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Curso.cs",
-              "DocumentMoniker": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\Clases\\Curso.cs",
-              "RelativeDocumentMoniker": "Proyecto_Lupaca_Rivera_A\\Clases\\Curso.cs",
-              "ToolTip": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\Clases\\Curso.cs",
-              "RelativeToolTip": "Proyecto_Lupaca_Rivera_A\\Clases\\Curso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Title": "FrmConvalidacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\FrmConvalidacion.cs",
+              "RelativeDocumentMoniker": "Proyecto_Lupaca_Rivera_A\\FrmConvalidacion.cs",
+              "ToolTip": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\FrmConvalidacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto_Lupaca_Rivera_A\\FrmConvalidacion.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T11:26:51.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T02:39:35.137Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -160,6 +158,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\Clases\\Curso.cs",
+              "RelativeDocumentMoniker": "Proyecto_Lupaca_Rivera_A\\Clases\\Curso.cs",
+              "ToolTip": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\Clases\\Curso.cs",
+              "RelativeToolTip": "Proyecto_Lupaca_Rivera_A\\Clases\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T11:26:51.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Convalidacion.cs",
               "DocumentMoniker": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\Clases\\Convalidacion.cs",
               "RelativeDocumentMoniker": "Proyecto_Lupaca_Rivera_A\\Clases\\Convalidacion.cs",
@@ -172,7 +183,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "Movilidad.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\Clases\\Movilidad.cs",
+              "RelativeDocumentMoniker": "Proyecto_Lupaca_Rivera_A\\Clases\\Movilidad.cs",
+              "ToolTip": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\Clases\\Movilidad.cs",
+              "RelativeToolTip": "Proyecto_Lupaca_Rivera_A\\Clases\\Movilidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T11:27:19.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\Clases\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Proyecto_Lupaca_Rivera_A\\Clases\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\Clases\\Estudiante.cs",
+              "RelativeToolTip": "Proyecto_Lupaca_Rivera_A\\Clases\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T11:25:16.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EquivalenciaNota.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\Clases\\EquivalenciaNota.cs",
+              "RelativeDocumentMoniker": "Proyecto_Lupaca_Rivera_A\\Clases\\EquivalenciaNota.cs",
+              "ToolTip": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\Clases\\EquivalenciaNota.cs",
+              "RelativeToolTip": "Proyecto_Lupaca_Rivera_A\\Clases\\EquivalenciaNota.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T11:11:07.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Archivo.cs",
               "DocumentMoniker": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\Clases\\Archivo.cs",
               "RelativeDocumentMoniker": "Proyecto_Lupaca_Rivera_A\\Clases\\Archivo.cs",
@@ -180,12 +228,11 @@
               "RelativeToolTip": "Proyecto_Lupaca_Rivera_A\\Clases\\Archivo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T12:34:13.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T12:34:13.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "FrmMenu.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\FrmMenu.cs",
               "RelativeDocumentMoniker": "Proyecto_Lupaca_Rivera_A\\FrmMenu.cs",
@@ -196,30 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FrmConsultas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\FrmConsultas.cs",
-              "RelativeDocumentMoniker": "Proyecto_Lupaca_Rivera_A\\FrmConsultas.cs",
-              "ToolTip": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\FrmConsultas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_Lupaca_Rivera_A\\FrmConsultas.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T02:39:49.002Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FrmConvalidacion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\FrmConvalidacion.cs",
-              "RelativeDocumentMoniker": "Proyecto_Lupaca_Rivera_A\\FrmConvalidacion.cs",
-              "ToolTip": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\FrmConvalidacion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_Lupaca_Rivera_A\\FrmConvalidacion.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T02:39:35.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "FrmCursos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\FrmCursos.cs",
               "RelativeDocumentMoniker": "Proyecto_Lupaca_Rivera_A\\FrmCursos.cs",
@@ -230,40 +254,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "FrmEstadisticas.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\FrmEstadisticas.cs",
               "RelativeDocumentMoniker": "Proyecto_Lupaca_Rivera_A\\FrmEstadisticas.cs",
               "ToolTip": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\FrmEstadisticas.cs [Dise\u00F1o]",
               "RelativeToolTip": "Proyecto_Lupaca_Rivera_A\\FrmEstadisticas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T02:40:03.883Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FrmConsultas.cs",
-              "DocumentMoniker": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\FrmConsultas.cs",
-              "RelativeDocumentMoniker": "Proyecto_Lupaca_Rivera_A\\FrmConsultas.cs",
-              "ToolTip": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\FrmConsultas.cs",
-              "RelativeToolTip": "Proyecto_Lupaca_Rivera_A\\FrmConsultas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T12:13:57.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FrmConvalidacion.cs",
-              "DocumentMoniker": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\FrmConvalidacion.cs",
-              "RelativeDocumentMoniker": "Proyecto_Lupaca_Rivera_A\\FrmConvalidacion.cs",
-              "ToolTip": "C:\\Users\\matti\\OneDrive\\Escritorio\\INGENIERIA DE SISTEMAS\\5TO CICLO\\Programacion 2 mattias\\proeycto tablas\\Proyecto_Lupaca_Rivera_A\\Proyecto_Lupaca_Rivera_A\\FrmConvalidacion.cs",
-              "RelativeToolTip": "Proyecto_Lupaca_Rivera_A\\FrmConvalidacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T12:11:33.784Z"
+              "WhenOpened": "2026-05-26T02:40:03.883Z"
             },
             {
               "$type": "Document",
@@ -299,7 +297,8 @@
               "RelativeToolTip": "Proyecto_Lupaca_Rivera_A\\FrmConvalidacion.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T13:06:11.15Z"
+              "WhenOpened": "2026-05-26T13:06:11.15Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
